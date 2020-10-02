@@ -2,7 +2,7 @@
 
 URL: https://cryptoday.vercel.app/
 
-Aplicacion Web programada en Typescript, HTML, Bootstrap y libreria ChartJS con framework Angular. Aplicacion de conversion, cotizacion y graficos de Criptomonedas en tiempo real.
+Web application programmed in Typescript, HTML, Bootstrap and ChartJS library with Angular framework. Cryptocurrency conversion, quote and graphics application in real time.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
 
